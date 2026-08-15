@@ -10,3 +10,29 @@ mechanical part models
 assembly design
  engineering drawings
  sheet metal design
+solidedge-designs/
+│
+├── README.md
+│
+├── Part-Design/
+│   ├── mechanical-part-01/
+│   ├── bracket/
+│   └── shaft/
+│
+├── Assemblies/
+│   ├── assembly-01/
+│   └── robotic-mechanism/
+│
+├── Sheet-Metal/
+│   ├── enclosure/
+│   └── mounting-bracket/
+│
+├── Engineering-Drawings/
+│   ├── PDF/
+│   └── DXF/
+│
+├── Prototype-Designs/
+│   ├── electronics-enclosure/
+│   └── robotics-components/
+│
+└── Screenshots/

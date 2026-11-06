@@ -36,3 +36,72 @@ solidedge-designs/
 │   └── robotics-components/
 │
 └── Screenshots/
+
+These are particularly relevant to the designs above.
+
+
+
+
+
+
+
+
+
+Solid Edge official tutorials
+Open complete tutorial libraryRobot claw, robot chassis, front loader, assemblies, drawings and wind turbine.
+
+
+
+
+
+
+
+
+
+
+
+
+Siemens Learning Center
+Free student learning resourcesOfficial learning library with 9 learning paths, 1,300+ topics and 70+ hours of video content.
+
+
+
+
+
+
+
+
+
+
+
+
+FEA and simulation
+Solid Edge Simulation courseLearn how to analyse and optimise your mechanical designs.
+
+
+
+
+
+
+
+
+
+
+
+
+Professional certification
+Siemens Solid Edge CertificationAssociate, Professional and Expert levels.
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering design resources
+Siemens resource libraryWebinars, eBooks, case studies and design resources.

@@ -823,3 +823,211 @@ One important engineering rule: AI-generated 3D images are not manufacturing-rea
 
 For your next step, I can demonstrate how to use AI to design your Intelligent Weed Recognition Robot from a text prompt all the way to an editable 3D CAD assembly.
 
+
+
+
+If you mean AI tools where you type a prompt in English and the AI creates a 2D design, 3D model, mechanical component, product concept, or complete CAD assembly, these are 10 tools worth exploring in 2026.
+
+I have prioritised tools that can help with your engineering innovations: agricultural drones, weed-removal robots, robotic arms, Raspberry Pi enclosures, and electronic product housings.
+
+# Top 10 prompt-based AI design tools
+
+Ranked by relevance to prompt-based engineering and product design, not by a controlled performance test.
+
+[Vizon](https://images.openai.com/static-rsc-4/YogTj8W0S3u93ApAp3G1vNea11HR-lcxXDxKuY3I5SrFv4sl2fZIdP_mz9dNpHPEQcPnX1x4uYwN_BerRxIVwmAUslgqN0dpPtvdIV2Gqp4O1fZIM_9EhF-sXuBIC6rtnZv_RnApP2q8wb5mPOLUOxGVnXM-QgliyBC44hZvV9Q?purpose=inline)
+
+1\. QuantCAD
+
+Best for mechanical assemblies
+
+- Describe a product and generate 3D CAD parts or assemblies.
+- Supports STEP and STL exports.
+- Useful for designing robot frames, brackets and enclosures.
+
+  Website: [QuantCAD](https://quantcad.ai/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://quantcad.ai\&sz=32)
+
+  QuantCAD+1
+
+[Zookeeper | Zoo](https://images.openai.com/static-rsc-4/TGUfFUAa_XGpkdfqO2U8Jts1_KR8VkYc6IiubBTSGtHgngU6hq3Ndu0j2Jy0YmyQMsjRC1bJRFhE8tWEHfxKXaq8l4pkaIqu5mREKlI4-wrtb8EIEIiY6NVApoi3C4u-T33L3b8NbpftBAdakTXtGbBGnyLxkylW44zeXAojZCA?purpose=inline)
+
+2\. Zoo Design Studio
+
+Best overall starting point
+
+- Generate editable 3D CAD from text prompts.
+- Refine geometry through conversational instructions.
+- Exports STEP, STL and other 3D formats.
+
+  Website: [Zoo Design Studio](https://zoo.dev/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://quantcad.ai\&sz=32)
+
+  QuantCAD+1
+
+[AI CAD agent | The #1 Text-to-CAD tool | BuildCAD AI](https://images.openai.com/static-rsc-4/Qk0_AnkIDtHpod8WMyHJ77dDWWzfcRTP_Puv5-RnvmHAthbGFNIjz2bmOvIecCbUCeA7kcGPr_3rSBVUQa5_jvDPRsUECQD9LdhPulpEKx-4jE_rq3fYsLIEstRpbbrV_gTonMnR-lHMx2Ox9cl9l9YhOBLljXTiz4nxSgr_n3g?purpose=inline)
+
+3\. BuildCAD AI
+
+- Create functional mechanical components using text.
+- Change dimensions using parameter sliders.
+- STEP, STL and 3MF exports.
+
+  Website: [BuildCAD AI](https://buildcad.ai/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://buildcad.ai\&sz=32)
+
+  BuildCAD AI+1
+
+[Introducing Text-to-CAD | Zoo](https://images.openai.com/static-rsc-4/qDSKsYlpZyVkr9WmfsP5i7-lHKVE0esklEom6CJ5KkoKuvjYtJ_A_9khZ8vV3_hjIJZVxFNFQHMLzIpmoWozW1JGD2rG-Ruc1b_vej_uWLbtYAzE2sFg2Tp7_Bi58CT9xYQ5AJ2rWiv5FFfwMKaXwEumJCpTYvD1au5GMeQjxbw?purpose=inline)
+
+4\. TextoCAD
+
+- Describe components in plain English.
+- Edit dimensions using sliders and a feature tree.
+- Export STEP and STL.
+
+  Website: [TextoCAD](https://textocad.com/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://textocad.com\&sz=32)
+
+  Text to CAD Design Engine
+
+[CADAM: AI Tinkercad | Product Hunt](https://images.openai.com/static-rsc-4/ud010Tv4X_Xl6G6A-8sJByXaEmJr5-NUN6JuKUhZBUUnX5gMUXHWKNxqk5l508bVsp-QL1ueT0tMRN5uEv0M1aeV5fKojzfODLiJOyTxDFtA1Na0APYLfpg46i-A3eEzT3-Pvrbtvb3EkQxMzPoip0dBfRnH53AYNT4MWxG7k5Q?purpose=inline)
+
+5\. Cadding
+
+- Generate functional 3D objects from prompts.
+- Refine designs conversationally.
+- Particularly useful for 3D-printable prototypes.
+
+  Website: [Cadding](https://cadding.io/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://cadding.io\&sz=32)
+
+  Cadding
+
+[AdamCAD Features, Pricing, and Alternatives | AI Tools](https://images.openai.com/static-rsc-4/fdDSaBtByma-oA6OozZGhYa9YfyhoVYhi5eakWvrSOP3eTZ6_UwbnwWyR3Nypr3V1UfB1NCtbYOum4dtsaQ8fse5S0SUcUthsgefr0zL71Yhsz0_BYrhcNPQSs2neWjocgOI7wmPS0tkOHZQIuOzsRMF861ObClb4m4ChtHc-i8?purpose=inline)
+
+6\. Adam / CADAM
+
+- Generate models using text or image instructions.
+- AI assistance for existing CAD workflows.
+- Useful for learning parametric design.
+
+  Website: [Adam](https://adam.new/?utm_source=chatgpt.com) · [CADAM](https://cadam.ai/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://quantcad.ai\&sz=32)
+
+  QuantCAD+1
+
+[Prompt2CAD: AI designs furniture. But does it really...?](https://images.openai.com/static-rsc-4/FGPBF70BKAStPGy5lPlcZV32FGsqQQ49GiQgaRUNm2DiavBzPjIjLeXdjDy-M3LjoxHZmkjhMcdvwnrrtuWRlNdptRObBXX8ZUCfID9lR3ZJgT0ROgnzPfW6m-WfXL4kEsvGe1T0TNVHKow2qRDCANyqTaJ7PqTW7-ID5JPAWfA?purpose=inline)
+
+7\. Prompt2CAD
+
+- Generate CAD concepts from text, images and sketches.
+- Useful for turning rough ideas into initial geometry.
+- Check export formats and plan limits before relying on it.
+
+  Website: [Prompt2CAD](https://prompt2cad.com/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://techdrawai.com\&sz=32)
+
+  TechDraw AI
+
+[Backflip AI](https://images.openai.com/static-rsc-4/-16IdApzPP26ZyJCEsxWp21WeKh0nB_J9vkCcl9_dTGwmutH9T9X7vNLY98Oz7q-vT26uw1VSnC5L5CxcUFTjFed5elfR4I3GJiH-1WuKnRIjN84LF2Hu0G-POKzwqSefVxxEMtsM-_y7bvwl9uYvQzgrBV4vBINFxWAlPIbugI?purpose=inline)
+
+8\. Backflip
+
+- Convert photos, drawings or 3D scans into CAD models.
+- Helpful when you have a physical component to reproduce.
+- Can connect with Fusion workflows.
+
+  Website: [Backflip](https://www.backflip.ai/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://buildcad.ai\&sz=32)
+
+  BuildCAD AI+1
+
+[How to Convert Text to STL for 3D Printing in 2024 - Blog - Meshy](https://images.openai.com/static-rsc-4/yGZN8I09-UnDihller0_btn0lUbKclFEw0RuwDx0QdZGq98fasdj-JqA5N0MC-MF1bVP1l0J6pmgMwYS0APMOYp0mGPN1lvj2nf36l9ttCOUjhq_OkK8FpAF3gYDixDU15cu8k3RAgVL6I0t9JOmZmafcESHyAC3r4KBinubO1M?purpose=inline)
+
+9\. Meshy AI
+
+- Generate 3D objects from text or reference images.
+- Excellent for product concepts and visual prototypes.
+- Primarily produces mesh models, not precision mechanical CAD.
+
+  Website: [Meshy AI](https://www.meshy.ai/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://spiritt.ai\&sz=32)
+
+  SPIRITT+1
+
+[Hunyuan 3D | Free Open Source Text-to-3D & Image-to-3D AI](https://images.openai.com/static-rsc-4/o7zqKAPTkM-Qra0APkt5EuuuUdv4r3FfogO4eKvMh6r1EtFY_Qvx76OkmHu915h_9zY2efNhLauQ62bNykcsOhZbNic-gBePVrqf_CCGoKb1c3Ffv9xedccluWiKIUmMfps9CwGey2q0hG6H4e7_BseeHYvwgTmq7nDQli1yFAY?purpose=inline)
+
+10\. Hunyuan3D
+
+- Generate 3D models from text or images.
+- Useful for visualising product shapes and concepts.
+- Not a replacement for dimension-controlled engineering CAD.
+
+  Website: [Hunyuan3D](https://3d.hunyuan.tencent.com/?utm_source=chatgpt.com)
+
+  [image](https://www.google.com/s2/favicons?domain=https://spiritt.ai\&sz=32)
+
+  SPIRITT
+
+## Which tools should you use for your projects?
+
+| Your project                      | Recommended tools  |
+| --------------------------------- | ------------------ |
+| Agricultural drone frame and body | Zoo, QuantCAD      |
+| Weed-removal robot                | QuantCAD, BuildCAD |
+| Robotic arm and gripper           | Zoo, BuildCAD      |
+| Raspberry Pi / ESP32 enclosure    | TextoCAD, BuildCAD |
+| Mini Peltier refrigerator body    | Zoo, Cadding       |
+| Product concept and appearance    | Meshy, Hunyuan3D   |
+| Existing physical part → CAD      | Backflip           |
+
+## Try these engineering prompts
+
+These are example prompts you can copy into the tools above.
+
+Prompt 1 — Agricultural drone
+
+Create a modular agricultural spraying drone frame with four arms, four motor mounts, central electronics compartment, battery compartment, landing gear and spray tank mounting system. Use realistic mechanical proportions and separate components. Make the frame editable and exportable as STEP.
+
+&#x20;Copy prompt
+
+Prompt 2 — Smart electronics enclosure
+
+Design a compact enclosure for Raspberry Pi 5 and ESP32 with ventilation slots, camera cable opening, USB and Ethernet access, mounting holes, removable lid and internal standoffs. Provide dimensions in millimetres and editable CAD geometry.
+
+&#x20;Copy prompt
+
+Prompt 3 — Weed detection and removal robot
+
+Design a small autonomous agricultural ground robot with a four-wheel chassis, camera mounting bracket, sensor mounts, electronics enclosure, battery compartment and adjustable tool mount for a weed-removal mechanism. Create a modular assembly with separate editable parts.
+
+&#x20;Copy prompt
+
+## Important: AI model versus engineering CAD
+
+[Img2CADSeq](https://images.openai.com/static-rsc-4/rTHBKPtgKFk9dnKLxehbBH0zW4sitBug3HApD1Iwbp3pFsd6DAa70I-eLJi1GRkaFqRG7vlLRICG5MssQDqGuk90DVf8u_uprpbVikRtOBs-VgoLdzltPMvvlE_n4WVAuTHz9DF7HDmvoTAA0bb4Fg3ryJHDxnEgCUsmZtdCytU?purpose=inline)
+
+Engineering CAD
+
+Choose this for manufacturing
+
+Dimensions, editable features, assemblies, STEP files and drawings.
+
+[AI Product Part Designer - Industrial Component Visualization | Free | Apatero](https://images.openai.com/static-rsc-4/2MloAy4Z-Q9G8L2wb9UrObuizF6zeslBimIp3faFhtcqdSGP-D2IM4t8sCNZQetbA0-9yZM1fjOHHecKd5eMvxPj3d3SZ1OAWVzR76RWAZCaxf51fFXqfe0lowieT6qAHeTZPywAKonUMzdRMaTmCkrInTJNr85y_4pE7JId0x0?purpose=inline)
+
+Visual 3D generation
+
+Choose this for concepts
+
+Appearance, shape, textures and presentation models.
+
+My recommendation: Start with Zoo Design Studio, QuantCAD and BuildCAD AI. Generate a first model using prompts, export STEP, then open it in Solid Edge to refine dimensions, add engineering features, build assemblies and prepare manufacturing drawings. AI-generated geometry still needs engineering checks before fabrication.
